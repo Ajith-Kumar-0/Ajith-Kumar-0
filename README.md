@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjithKumar
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Exploit Devepment
 - 🌱 I’m currently Purusing sophomore MCA
 - 📫 How to reach me ...
 - Find Me on LinkedIn
